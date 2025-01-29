@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, its your friendly neighborhood Abhi</h1>
-<h3 align="center">A passionate frontend developer from MIT AKA mannampatta institute of😂 tech</h3>
+<h3 align="center">A passionate  developer from MIT AKA mannampatta institute of😂 tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ft4bhi&label=Profile%20views&color=0e75b6&style=flat" alt="ft4bhi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ft4bhi" alt="ft4bhi" /></a> </p>
 
-- 🔭 I’m currently working on [zendelona trudesk](https://github.com/ft4bhi/trudesk)
+- 🔭 I’m currently working on [zendelona ](https://github.com/ft4bhi/world-map-explorer)
 
 - 📫 How to reach me **psabhiram100@gmail.com**
 
