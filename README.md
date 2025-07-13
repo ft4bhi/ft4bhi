@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ft4bhi" alt="ft4bhi" /></a> </p>
 
-- 🔭 I’m currently working on [zendelona ](https://github.com/ft4bhi/world-map-explorer)
 
 - 📫 How to reach me **psabhiram100@gmail.com**
 
